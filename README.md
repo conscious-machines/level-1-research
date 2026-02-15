@@ -17,4 +17,4 @@ You **may not**:
 
 For permission to copy, create derivatives, or use commercially, contact: [vimal.naran@conscious-machines.org](mailto:vimal.naran@conscious-machines.org)
 
-© 2026 Vimal Naran. All rights reserved.[page:0]
+© 2026 Vimal Naran. All rights reserved.
